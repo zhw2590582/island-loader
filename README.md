@@ -1,4 +1,4 @@
-# island-loader
+# island-loader [![Build Status](https://www.travis-ci.org/zhw2590582/island-loader.svg?branch=master)](https://www.travis-ci.org/zhw2590582/island-loader)
 > A island loader for webpack(目前测试用)
 
 ## Install
