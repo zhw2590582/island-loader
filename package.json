@@ -1,0 +1,26 @@
+{
+  "name": "island-loader",
+  "version": "1.0.0",
+  "description": "A island loader for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT",
+  "repository": "zhw2590582/island-loader",
+  "authors": ["Harvey Zack <laozhaochaguan@hotmail.com>"],
+  "keywords": ["island", "loader", "webpack"],
+  "bugs": {
+    "url": "https://github.com/zhw2590582/island-loader/issues"
+  },
+  "homepage": "https://github.com/zhw2590582/island-loader#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-jest": "^22.0.4",
+    "babel-preset-env": "^1.6.1",
+    "jest": "^22.0.4"
+  },
+  "dependencies": {
+    "loader-utils": "^1.1.0"
+  }
+}
