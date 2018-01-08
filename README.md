@@ -1,5 +1,5 @@
 # island-loader [![Build Status](https://www.travis-ci.org/zhw2590582/island-loader.svg?branch=master)](https://www.travis-ci.org/zhw2590582/island-loader)
-> A island loader for webpack(目前测试用)
+> A island loader for webpack(目前测试用于文件头部输出作者信息)
 
 ## Install
 
@@ -17,7 +17,9 @@ module: {
         use: {
             loader: 'island-loader',
             options: {
-                name: 'Alice'
+                author: 'Harvey Zack',
+                email: '717995589@qq.com',
+                homepage: 'http://www.zhw-island.com'
             }
         }
     }]
